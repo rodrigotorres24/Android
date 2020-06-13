@@ -13,6 +13,8 @@ We use git submodules and so when you are checking out the app, you'll need to e
 Alternatively, if you already have the project checked out, you can initialize the submodules manually.
 
     git submodule update --init
+## Prueba y Error.
+Si no entiendes el ingles, tu puedes copiar este repositorio para tu aprendizaje desde el boton "Fork", disfrutalo.
 
 ## Contribute
 
